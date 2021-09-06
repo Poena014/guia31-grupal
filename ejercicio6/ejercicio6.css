@@ -1,0 +1,68 @@
+ciclo {
+    margin: 40px 30px  0px 30px;
+    background-color: darkgray;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+estudiante{
+    margin-top: 20px;
+    padding: 10px 20px 20px 10px;
+    background-color: ghostwhite;
+    display: block;
+    font-weight: bold;
+    width: 400px;
+}
+
+nombres{
+    display: block;
+}
+apellidos{
+    display: block;
+}
+carnet{
+    display: block;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+
+listadoasignaturas{
+    font-weight: lighter;
+    display: block;
+    margin-top: 10px;
+}
+
+materia{
+    display: block;
+    background-color: moccasin;
+    font-size: 11pt;
+    margin-top: 5px;
+    padding: 2px;
+}
+
+codigo{
+    display: inline-block;
+    color: darkcyan;
+}
+
+nombre{
+    display: block;
+}
+
+horario{
+    padding: 5px;
+    display: block;
+    margin: 10px;
+    font-weight: bold;
+    background-color: slategrey;
+    color: white;
+}
+
+teorioco{
+    display: block;
+}
+laboratorio{
+    display: block;
+}
+
