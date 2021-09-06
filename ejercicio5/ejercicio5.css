@@ -1,0 +1,36 @@
+/* ejercicio4.css   CC17116  */
+agenda {
+	background-color:aquamarine;
+	font-size: 20px;
+	display: block;
+	
+}
+contacto {
+	background-color:lightblue;
+	display:block;
+}
+nombre {
+	font-weight: bold;
+	display:inline;
+	color: black;
+}
+telefono_fijo {
+	font-weight: normal;
+	display:block;
+	color: black;
+}
+
+celular{
+	color: black;
+	display:block;
+}
+
+direccion{
+	background-color: cornflowerblue;
+	color: white;
+}
+
+email{
+	background-color: yellow;
+	color: black;
+}

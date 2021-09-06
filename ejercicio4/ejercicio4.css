@@ -1,0 +1,41 @@
+/* ejercicio4.css   CC17116  */
+historial {
+	background-color:darkgray;
+	font-size: 30px;
+	display: block;
+	
+}
+registro {
+	background-color:silver;
+	display:block;
+}
+fecha {
+	font-weight: normal;
+	font-family:Helvatica, Arial, sans-serif;
+	display:inline;
+	color: black;
+}
+zona {
+	font-weight: normal;
+	display:inline;
+	color: black;
+}
+
+Temperatura{
+	display:block;
+}
+
+minima{
+	background-color: cornflowerblue;
+	color: white;
+}
+
+promedio{
+	background-color: yellow;
+	color: black;
+}
+
+maxima{
+	background-color: red;
+	color: white;
+}

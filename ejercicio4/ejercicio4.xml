@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio4.css" ?>
+
+<historial>
+  <registro id="1">
+  <fecha>5/09/2021</fecha>
+  <zona>Oriental</zona>
+  <temperatura>
+    <minima>27°</minima>
+    <promedio>29°</promedio>
+    <maxima>32°</maxima>
+  </temperatura>
+
+  <zona>Central</zona>
+  <temperatura>
+    <minima>25°</minima>
+    <promedio>27°</promedio>
+    <maxima>30°</maxima>
+  </temperatura>
+
+  <zona>Occidental</zona>
+  <temperatura>
+    <minima>29°</minima>
+    <promedio>30°</promedio>
+    <maxima>31°</maxima>
+  </temperatura>
+  </registro>
+
+</historial>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ciclo id="par">
+
+<estudiante id="1">
+
+  <nombres>Jose Alonso</nombres>
+  <apellidos>Zamora Martinez</apellidos>
+  <carnet>ZM95004</carnet>
+  
+  <listadoasignaturas id="1">
+  
+  <materia id="1">
+  <codigo>MAT215</codigo>
+  <nombre>Matematicas II</nombre> 
+  <horario>
+  <teorico id="01"> --- Lun/Mier --- 6:20 - 8:05</teorico>
+  <laboratorio id="01"> --- Mar/Vier  --- 15:05 - 16:45</laboratorio>
+  </horario>
+  </materia>  
+  
+  <materia id="2">
+  <codigo>FIR115</codigo>
+  <nombre>Matematicas II</nombre> 
+  <horario>
+  <teorico id="04">  Lun/Mier --- 9:45 - 11:35</teorico>
+  <laboratorio id="12">  Mar/Vier  --- 9:45 - 11:35</laboratorio>
+  </horario>
+  </materia>
+  
+  <materia id="3">
+  <codigo>MAT215</codigo>
+  <nombre>Matematicas II</nombre> 
+  <horario>
+  <teorico id="01"> Lun/Mier --- 16:50 - 18:30</teorico>
+  <laboratorio id="01"> Lun/Mier  --- 18:35 - 20:05</laboratorio>
+  </horario>
+  </materia>
+  
+  </listadoasignaturas>
+</estudiante>
+
+
+</ciclo>
