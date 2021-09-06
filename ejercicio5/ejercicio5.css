@@ -8,15 +8,21 @@ agenda {
 contacto {
 	background-color:lightblue;
 	display:block;
+	margin: 15px 10% auto 10%;
+	font-family: monospace;
+	border-radius: 5px;
+	padding: 8px;
 }
 nombre {
 	font-weight: bold;
-	display:inline;
+	display:block;
 	color: black;
+	text-align: center;
+	font-size: 22pt;
 }
 telefono_fijo {
 	font-weight: normal;
-	display:block;
+	display: block;
 	color: black;
 }
 
@@ -28,9 +34,18 @@ celular{
 direccion{
 	background-color: cornflowerblue;
 	color: white;
+	display: inline-block;
+	border-radius: 3px;
+	width: 48%;
+	text-align: center;
 }
 
 email{
-	background-color: yellow;
-	color: black;
+	background-color: #EBA1E7;
+	color: white;
+	display: inline-block;
+	border-radius: 3px;
+	width: 48%;
+	text-align: center;
+	font-style: italic;
 }

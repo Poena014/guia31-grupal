@@ -3,27 +3,33 @@
 
 <historial>
   <registro id="1">
-  <fecha>5/09/2021</fecha>
-  <zona>Oriental</zona>
-  <temperatura>
-    <minima>27°</minima>
-    <promedio>29°</promedio>
-    <maxima>32°</maxima>
-  </temperatura>
+    <fecha>5/09/2021</fecha>
+    <zona>
+    <nombre>Oriental</nombre>
+      <temperatura>
+        <minima>27°</minima>
+        <promedio>29°</promedio>
+        <maxima>32°</maxima>
+      </temperatura>
+    </zona>
 
-  <zona>Central</zona>
-  <temperatura>
-    <minima>25°</minima>
-    <promedio>27°</promedio>
-    <maxima>30°</maxima>
-  </temperatura>
+    <zona>
+      <nombre>Central</nombre>
+      <temperatura>
+        <minima>25°</minima>
+        <promedio>27°</promedio>
+        <maxima>30°</maxima>
+      </temperatura>
+    </zona>
 
-  <zona>Occidental</zona>
-  <temperatura>
-    <minima>29°</minima>
-    <promedio>30°</promedio>
-    <maxima>31°</maxima>
-  </temperatura>
+    <zona>
+    <nombre>Occidental</nombre>
+      <temperatura>
+        <minima>29°</minima>
+        <promedio>30°</promedio>
+        <maxima>31°</maxima>
+      </temperatura>
+    </zona>
   </registro>
 
 </historial>

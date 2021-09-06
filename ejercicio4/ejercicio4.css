@@ -1,41 +1,78 @@
 /* ejercicio4.css   CC17116  */
 historial {
-	background-color:darkgray;
+	background-color:white;
 	font-size: 30px;
 	display: block;
+	margin: 10px 30px auto 30px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	
 }
 registro {
 	background-color:silver;
 	display:block;
+	padding: 5px 5px 5px 5px;
+	width: 60%;
 }
 fecha {
-	font-weight: normal;
+	font-weight: bold;
 	font-family:Helvatica, Arial, sans-serif;
-	display:inline;
+	display:block;
 	color: black;
+	font-size: 30pt;
 }
 zona {
+	margin-top: 10px;
+	margin-left: 5px;
+	padding: 5px 5px 5px 5px;
 	font-weight: normal;
-	display:inline;
+	background-color: #FFF58C;
+	display:block;
 	color: black;
+	border-radius: 5px;
+}
+
+
+
+nombre{
+	display: block;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: small-caps;
 }
 
 Temperatura{
-	display:block;
+	padding: 0px;
+	display: block;
 }
-
 minima{
 	background-color: cornflowerblue;
 	color: white;
+	display: inline-block;
+	width: 25%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	border-radius: 20px;
 }
 
 promedio{
-	background-color: yellow;
+	background-color: #28EB50;
 	color: black;
+	display: inline-block;
+	width: 25%;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	border-radius: 20px;
 }
 
 maxima{
-	background-color: red;
+	background-color: #EB2842;
 	color: white;
+	display: inline-block;
+	width:25%;
+	margin: 0px;
+	padding: 0px;;
+	text-align: center;
+	border-radius: 20px;
 }
