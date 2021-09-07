@@ -1,0 +1,30 @@
+﻿{
+	"agenda": {
+		"contacto": [
+			{
+				"nombre": "Jorge",
+				"telefono_fijo": "2257-7777",
+				"celular": "7887-7887",
+				"direccion": "San salvador",
+				"email": "jorge@ues.edu.sv",
+				"_id": "1"
+			},
+			{
+				"nombre": "Erick Zavaleta",
+				"telefono_fijo": "2222-2222",
+				"celular": "2021-1202",
+				"direccion": "La Libertad",
+				"email": "eZavaleta@ues.edu.sv",
+				"_id": "2"
+			},
+			{
+				"nombre": "Enrico Campero",
+				"telefono_fijo": "2273-0000",
+				"celular": "8593-2351",
+				"direccion": "Santa Ana",
+				"email": "Enrico@ues.edu.sv",
+				"_id": "3"
+			}
+		]
+	}
+}

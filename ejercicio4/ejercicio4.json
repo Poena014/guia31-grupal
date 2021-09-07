@@ -1,0 +1,30 @@
+﻿{
+	"historial": {
+		"registro": {
+			"fecha": "5/09/2021",
+			"zona": [
+				"Oriental",
+				"Central",
+				"Occidental"
+			],
+			"temperatura": [
+				{
+					"minima": "27°",
+					"promedio": "29°",
+					"maxima": "32°"
+				},
+				{
+					"minima": "25°",
+					"promedio": "27°",
+					"maxima": "30°"
+				},
+				{
+					"minima": "29°",
+					"promedio": "30°",
+					"maxima": "31°"
+				}
+			],
+			"_id": "1"
+		}
+	}
+}

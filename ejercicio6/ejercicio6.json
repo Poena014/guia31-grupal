@@ -1,0 +1,61 @@
+﻿{
+	"ciclo": {
+		"estudiante": {
+			"nombres": "Jose Alonso",
+			"apellidos": "Zamora Martinez",
+			"carnet": "ZM95004",
+			"listadoasignaturas": {
+				"materia": [
+					{
+						"codigo": "MAT215",
+						"nombre": "Matematicas II",
+						"horario": {
+							"teorico": {
+								"_id": "01",
+								"__text": "--- Lun/Mier --- 6:20 - 8:05"
+							},
+							"laboratorio": {
+								"_id": "01",
+								"__text": "--- Mar/Vier  --- 15:05 - 16:45"
+							}
+						},
+						"_id": "1"
+					},
+					{
+						"codigo": "FIR115",
+						"nombre": "Matematicas II",
+						"horario": {
+							"teorico": {
+								"_id": "04",
+								"__text": "Lun/Mier --- 9:45 - 11:35"
+							},
+							"laboratorio": {
+								"_id": "12",
+								"__text": "Mar/Vier  --- 9:45 - 11:35"
+							}
+						},
+						"_id": "2"
+					},
+					{
+						"codigo": "MAT215",
+						"nombre": "Matematicas II",
+						"horario": {
+							"teorico": {
+								"_id": "01",
+								"__text": "Lun/Mier --- 16:50 - 18:30"
+							},
+							"laboratorio": {
+								"_id": "01",
+								"__text": "Lun/Mier  --- 18:35 - 20:05"
+							}
+						},
+						"_id": "3"
+					}
+				],
+				"_id": "1"
+			},
+			"_id": "1"
+		},
+		"_id": "par"
+	}
+}
